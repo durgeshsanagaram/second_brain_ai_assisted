@@ -1,4 +1,4 @@
-# Assignment 2 — CLAUDE.md
+# — CLAUDE.md
 
 A four-part walkthrough on a real Svelte app (`mesh/`). Students
 seed an empty `CLAUDE.md`, build a feature from a written spec, hit
