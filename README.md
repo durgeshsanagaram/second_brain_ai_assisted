@@ -1,4 +1,12 @@
-# — CLAUDE.md
+# Description
+Work through a four-part walkthrough on the mesh Svelte app, a semantic note-graph that's missing a search feature. You'll start with an empty CLAUDE.md, hit competing patterns the codebase plants on purpose, build the search feature from a written spec, and apply a designer's accent-color refresh from an email. Each ambiguity you hit becomes a written rule, and the rules make the next prompt cheap.
+What you'll learn:
+* How to recognize a context gap and seed CLAUDE.md with /init
+* How to resolve competing patterns by writing canonical conventions
+* Why building on clean context is faster than building and patching
+* The "ask once, write it down, never asked again" loop
+
+# CLAUDE.md
 
 A four-part walkthrough on a real Svelte app (`mesh/`). Students
 seed an empty `CLAUDE.md`, build a feature from a written spec, hit
